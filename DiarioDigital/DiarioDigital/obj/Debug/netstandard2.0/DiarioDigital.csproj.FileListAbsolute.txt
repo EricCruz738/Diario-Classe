@@ -1,0 +1,14 @@
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\Views\DadoView.xaml.g.cs
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\Views\DetalheView.xaml.g.cs
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\Views\Disciplina.xaml.g.cs
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\DiarioDigital.csproj.CoreCompileInputs.cache
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\DiarioDigital.AssemblyInfoInputs.cache
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\DiarioDigital.AssemblyInfo.cs
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\DiarioDigital.dll
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\DiarioDigital.pdb
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\bin\Debug\netstandard2.0\DiarioDigital.deps.json
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\bin\Debug\netstandard2.0\DiarioDigital.dll
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\bin\Debug\netstandard2.0\DiarioDigital.pdb
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Sistemas\DiarioDigital\DiarioDigital\DiarioDigital\obj\Debug\netstandard2.0\DiarioDigital.csprojAssemblyReference.cache

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiarioDigital.Android", "DiarioDigital\DiarioDigital.Android\DiarioDigital.Android.csproj", "{B720B9B7-5FEF-401A-A96E-12B84A0DBB5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiarioDigital", "DiarioDigital\DiarioDigital\DiarioDigital.csproj", "{D05AE9BD-1520-4267-8B68-EFBDB5F3849F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B720B9B7-5FEF-401A-A96E-12B84A0DBB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B720B9B7-5FEF-401A-A96E-12B84A0DBB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B720B9B7-5FEF-401A-A96E-12B84A0DBB5E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B720B9B7-5FEF-401A-A96E-12B84A0DBB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B720B9B7-5FEF-401A-A96E-12B84A0DBB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B720B9B7-5FEF-401A-A96E-12B84A0DBB5E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D05AE9BD-1520-4267-8B68-EFBDB5F3849F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05AE9BD-1520-4267-8B68-EFBDB5F3849F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05AE9BD-1520-4267-8B68-EFBDB5F3849F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D05AE9BD-1520-4267-8B68-EFBDB5F3849F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05AE9BD-1520-4267-8B68-EFBDB5F3849F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05AE9BD-1520-4267-8B68-EFBDB5F3849F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3218F164-79AB-484E-969F-59989F7055A3}
+	EndGlobalSection
+EndGlobal
